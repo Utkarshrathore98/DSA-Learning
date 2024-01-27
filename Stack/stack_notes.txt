@@ -1,0 +1,10 @@
+First In First Out (FIFO) OR Last In First Out (LIFO)
+
+Functions operated by Stack :-
+===============================
+1. Push (Add / insert) - (push -> append)
+2. Pop (Remove / Delete) - (pop -> pop)
+3. Peek or top (return 1st element) - (through indexing - stack[-1])
+4. is Empty - (is Empty , not stack)
+
+Undo is the best example of Stack
