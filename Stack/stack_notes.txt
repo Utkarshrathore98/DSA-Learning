@@ -1,6 +1,6 @@
-First In First Out (FIFO) OR Last In First Out (LIFO)
+First In Last Out (FILO) OR Last In First Out (LIFO)
 
-Functions operated by Stack :-
+operations perfromed in Stack :-
 ===============================
 1. Push (Add / insert) - (push -> append)
 2. Pop (Remove / Delete) - (pop -> pop)

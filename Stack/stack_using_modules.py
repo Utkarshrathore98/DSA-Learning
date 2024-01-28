@@ -10,7 +10,7 @@ stack.append(3)
 
 stack.pop()
 
-#second way using queue.LifoQueue
+# second way using queue.LifoQueue
 import queue
 stack_1 = queue.LifoQueue
 
