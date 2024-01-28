@@ -1,0 +1,4 @@
+Python Maps also called ChainMap is a type of data structure to manage multiple dictionaries together as one unit.
+The combined dictionary contains the key and value pairs in a specific sequence eliminating any duplicate keys.
+The best use of ChainMap is to search through multiple dictionaries at a time and get the proper key-value pair mapping. 
+We also see that these ChainMaps behave as stack data structure.
