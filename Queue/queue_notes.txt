@@ -1,0 +1,22 @@
+First In First Out (FIFO) OR Last In Last Out (LILO)
+
+Process of inserting an element in queue is known as Enqueue.
+Process of removing an element from queue is known as Dequeue.
+
+Operations perfromed in queue :-
+================================
+
+1. enqueue (append method)
+2. dequeeue (pop method)
+3. isFull
+4. isEmpty
+
+Call centers call is the best example of queue.
+
+-------------------------
+|       |       |       |
+|       |       |       |
+|       |       |       |
+|       |       |       |
+-------------------------
+(enqueue)               (dequeue)
