@@ -1,0 +1,36 @@
+Array is a container which can hold a fix number of items and these items should be of the same type.
+
+Basic operations supported by an array are as stated below :−
+=============================================================
+
+1. Traverse − print all the array elements one by one.
+2. Insertion − Adds an element at the given index.
+3. Deletion − Deletes an element at the given index.
+4. Search − Searches an element using the given index or by the value.
+5. Update − Updates an element at the given index.
+
+Array is created in Python by importing array module to the python program. Then, the array is declared as shown below −
+
+from array import *
+arrayName = array(typecode, [Initializers])
+
+Typecode	Value
+b	        Represents signed integer of size 1 byte
+B	        Represents unsigned integer of size 1 byte
+c	        Represents character of size 1 byte
+i	        Represents signed integer of size 2 bytes
+I	        Represents unsigned integer of size 2 bytes
+f	        Represents floating point of size 4 bytes
+d	        Represents floating point of size 8 bytes
+
+Two dimanesional arrays
+=======================
+
+Two dimensional array is an array within an array. It is an array of arrays.
+In this type of array the position of an data element is referred by two indices instead of one. So it represents a table with rows an dcolumns of data.
+
+Matrix
+======
+
+Matrix is a special case of two dimensional array where each data element is of strictly same size. So every matrix is also a two dimensional array but not vice versa.
+Matrices are very important data structures for many mathematical and scientific calculations.
